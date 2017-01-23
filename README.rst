@@ -26,3 +26,5 @@ Installation
 ::
 
     $ pip install eng_join
+
+✨🍰✨

@@ -20,3 +20,9 @@ This module is pretty self-explanatory.
     >>> join(['blue', 'red', 'yellow', 'green', 'yello'], conj='and')
     'blue, red, yellow, green, and yello'
 
+Installation
+------------
+
+::
+
+    $ pip install eng_join

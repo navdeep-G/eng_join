@@ -22,8 +22,8 @@ This module is pretty self-explanatory.
     >>> join(['blue'], conj='and')
     'blue'
     
-    >>> join(['blue', 'red', 'yellow', 'green', 'yello'], conj='and')
-    'blue, red, yellow, green, and yello'
+    >>> join(['blue', 'red', 'yellow', 'green', 'yellow'], conj='and')
+    'blue, red, yellow, green, and yellow'
     
     
 `im_a_moron` removes support for the Oxford comma. I have opinions. 

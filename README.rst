@@ -4,6 +4,7 @@ eng_join: a simple english joiner
 This module is pretty self-explanatory.
 
 ::
+
     >>> from eng_join import join
 
     >>> join(['blue', 'red', 'yellow'], conj='or', im_a_moron=True)
